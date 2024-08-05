@@ -40,3 +40,31 @@
 .read-the-docs {
   color: #888;
 }
+
+.actor-img {
+  width: 120px;
+  display: block;
+  border: 1px solid black;
+}
+
+.actor-table {
+
+    width: 960px;
+    margin: 12px auto;
+    background: #e9ecef;
+    padding: 32px;
+
+    border-spacing: 20px;
+
+}
+
+.actor-table thead {
+  background: #f8f9fa;
+  padding: 16px;
+}
+
+.actor-table thead th {
+  /*display: block;*/
+  padding-right: 20px;
+  /*margin-right: 10px;*/
+}
